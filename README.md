@@ -1,11 +1,11 @@
-# react-native-app-intro-slider
+# react-native-app-intro-slider-edit
 
 An easy-to-use yet very configurable app introduction slider/swiper based on FlatList that supports RTL.
 
 ```sh
 yarn add react-native-app-intro-slider
 ```
-
+original package : https://github.com/Jacse/react-native-app-intro-slider
 ## Usage
 
 ### Simple examples
