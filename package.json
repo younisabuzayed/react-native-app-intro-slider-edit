@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "lint": "eslint 'src/**/*.{ts,tsx}'",
+    "lint": "eslint 'src/**/*.{js,ts,tsx}' --no-error-on-unmatched-pattern",
     "format": "prettier --write src",
     "test": "echo 'no tests yet'",
     "prepublishOnly": "yarn run build && yarn run lint && yarn run format",
