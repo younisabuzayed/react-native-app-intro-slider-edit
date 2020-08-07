@@ -5,7 +5,7 @@ An easy-to-use yet very configurable app introduction slider/swiper based on Fla
 ```sh
 yarn add react-native-app-intro-slider-edit
 ```
-original package : https://github.com/Jacse/react-native-app-intro-slider
+Original Package : https://github.com/Jacse/react-native-app-intro-slider
 ## Usage
 
 ### Simple examples
